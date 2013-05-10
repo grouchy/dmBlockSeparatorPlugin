@@ -23,3 +23,7 @@ How does it works?
 1. Drag&Drop to Zone
 2. Define separation value
 3. Save and close
+
+
+NOTICE:
+In Diem Extended is implemented automatic compiling of LESS code so if you use Diem CMF instead you must create CSS file and define route to it.
