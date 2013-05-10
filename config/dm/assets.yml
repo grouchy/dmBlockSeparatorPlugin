@@ -1,0 +1,3 @@
+css:
+  dmBlockSeparatorPlugin:
+    block-separator.less: block-separator.less

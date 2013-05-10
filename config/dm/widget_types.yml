@@ -1,0 +1,6 @@
+dmWidgetContent:
+  
+  separator:
+    public_name:        Separator
+    form_class:         dmBlockSeparatorWidgetForm
+    view_class:         dmBlockSeparatorWidgetView
